@@ -72,7 +72,7 @@ header img {
 }
 
 .social a:hover {
-    color: #249991;
+    color: #de6369;
 }
 
 .social .fa {
@@ -87,9 +87,6 @@ header img {
 }
 
 .llpink {
-    color: #de6369;
-}
-.llhover:hover {
     color: #de6369;
 }
 
